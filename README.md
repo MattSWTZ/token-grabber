@@ -1,7 +1,7 @@
 <h1 align="center">Discord Token Grabber</h1>
-<p align="center">A Discord token grabber written in Python 3.</p>
+<p align="center">Un token grabber discord codé avec Python 3.</p>
 
-This version of the grabber only supports **Windows**.
+Le version de se grabber est uniquement disponible sur **Windows**.
 
 # Features
  - Pas de crashs
